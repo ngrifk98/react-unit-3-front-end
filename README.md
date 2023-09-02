@@ -20,10 +20,6 @@ For a more in-depth look at individual recipes, the **DetailScreen** component p
 
 Aesthetic appeal was an important aspect of the project. By combining CSS styling and layout techniques, I was able to create an engaging and visually pleasing user interface. Each component's styling was customized to match NGK's culinary theme, utilizing a color palette inspired by ingredients and culinary concepts.
 
-## License
-
-This project is licensed under the terms of the [MIT License](LICENSE). Feel free to use and modify the code for your own purposes following the guidelines outlined in the license.
-
 ## Conclusion
 
 Working on this project taught me invaluable skills in React development, particularly in utilizing React Router for managing views and creating a cohesive user experience. I gained hands-on experience in creating and organizing components, implementing dynamic routing, and crafting an appealing design.
