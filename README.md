@@ -1,25 +1,53 @@
-# React Unit 3: Whisked Wonders: NGK's Culinary Escapades
+# Whisked Wonders: NGK's Culinary Escapades
 
-In this project, I had the fantastic opportunity to delve into the world of React and create a culinary-focused web application called "Whisked Wonders: NGK's Culinary Escapades." The goal of this project was to develop an interactive recipe-sharing platform where users can explore, create, and share their favorite recipes.
+In this project, I created a recipe-sharing website called "Whisked Wonders" for NGK's Culinary Escapades. The website allows users to explore and share their favorite recipes with the world.
 
-## Learning and Implementing React Router
+## Table of Contents
 
-One of the key aspects of this project was learning and implementing React Router. React Router allowed me to create multiple views within a single-page application, providing a seamless and dynamic user experience. This was crucial for enabling users to navigate between different sections of the application without having to reload the entire page.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
-By using React Router, I was able to set up various routes for different components, such as the home screen, new recipe form, and detailed recipe view. This made the application organized and user-friendly, as users could easily switch between these views using navigation links or by typing in specific URLs.
+## Introduction
 
-## Creating Views and Components
+As part of the React Unit 3 assignment, I learned to work with React Router to create multiple views within the same web application. The goal was to build a user-friendly recipe-sharing platform that allows users to create, view, and share their culinary creations.
 
-To bring NGK's Culinary Escapades to life, I created several distinct components to handle different aspects of the application. The **HomeScreen** component served as the main landing page, displaying a collection of featured recipes and providing a search bar for users to find specific recipes.
+## Features
 
-The **NewRecipeScreen** component allowed users to contribute their own culinary creations by submitting new recipes. This form-based view guided users through the process of adding recipe details, ingredients, and instructions, providing a user-friendly experience for sharing recipes.
+- Home Screen: The home screen displays featured recipes and provides a search bar to find specific recipes.
+- New Recipe Form: Users can submit their own recipes using a form with fields for recipe details.
+- Recipe Details: Users can view detailed information about a specific recipe, including ingredients and instructions.
+- Navigation: The navigation bar allows users to easily switch between different sections of the website.
 
-For a more in-depth look at individual recipes, the **DetailScreen** component presented a detailed view of a specific recipe. Users could access this view by clicking on a recipe's title or through direct URL navigation. The details included the recipe's image, ingredients, cooking instructions, and additional information.
+## Technologies Used
 
-## Styling and Design
+- React: Used for building the user interface components and managing views.
+- React Router: Implemented for navigation and creating multiple views within the app.
+- Axios: Used for making API requests to interact with the backend.
+- CSS: Styled the components and created a visually appealing design.
 
-Aesthetic appeal was an important aspect of the project. By combining CSS styling and layout techniques, I was able to create an engaging and visually pleasing user interface. Each component's styling was customized to match NGK's culinary theme, utilizing a color palette inspired by ingredients and culinary concepts.
+## Getting Started
 
-## Conclusion
+1. Clone this repository to your local machine.
+2. Navigate to the project directory: `cd react-unit-3-front-end`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
 
-Working on this project taught me invaluable skills in React development, particularly in utilizing React Router for managing views and creating a cohesive user experience. I gained hands-on experience in creating and organizing components, implementing dynamic routing, and crafting an appealing design.
+## Usage
+
+1. Visit the website in your browser at `http://localhost:3000`.
+2. Explore featured recipes on the home screen.
+3. Create a new recipe using the "New Recipe" form.
+4. Click on a recipe to view its details.
+5. Use the search bar to find specific recipes.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to submit a pull request.
+
+---
+
+**Whisked Wonders: NGK's Culinary Escapades** is a project developed by Nicholas Kingston.
